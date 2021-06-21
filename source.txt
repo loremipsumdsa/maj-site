@@ -1,1 +1,1 @@
-https://github.com/loremipsumdsa/site-perso.git
+https://github.com/loremipsumdsa/site-perso/archive/refs/heads/main.zip
